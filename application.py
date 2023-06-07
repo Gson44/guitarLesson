@@ -1,6 +1,8 @@
 from flask import Flask, jsonify
-application = Flask(__name__)
+from flask_cors import CORS
 
+application = Flask(__name__)
+CORS(application)
 data ={"results": [
       {
         "name": "Chord C",
