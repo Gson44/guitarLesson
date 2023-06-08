@@ -6,7 +6,8 @@ CORS(application)
 data ={"results": [
       {
         "name": "Chord C",
-        "url": "something"
+        "url": 
+"https://drive.google.com/file/d/1O5PljPDKt20UtEtmr2JP4LmAiFRa_9IE/view?usp=drive_link"
       },
       {
         "name": "Chord D",
